@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aminul islam sajid</h1>
 <h3 align="center">I’m a front-end web developer From Dhaka, Bangladesh, also familiar with the Back End. I convert coffee into Code ✌️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriar-fardows&label=Profile%20views&color=0e75b6&style=flat" alt="shahriar-fardows" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminul-islam-sajid&label=Profile%20views&color=0e75b6&style=flat" alt="aminul-islam-sajid" /> </p>
 
 - 🔭 I'm currently delving into  **Node.js, Express.js, MongoDB, and React for web app development. I utilize React and Firebase, and for UI design, I leverage Bootstrap, Sass, Tailwind CSS, and Material UI.**
 
